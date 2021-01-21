@@ -1,0 +1,1 @@
+console.log('f2功能開發');
